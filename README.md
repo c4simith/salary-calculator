@@ -1,2 +1,2 @@
 # salary-calculator
-Utility to calculate on hand salary
+Utility to calculate on hand salary (Ireland)
